@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloXamarin.Android", "Hel
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "HelloXamarin", "HelloXamarin\HelloXamarin\HelloXamarin.shproj", "{62F8E48D-7428-41D9-A532-4D48C6CCF382}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloXamarin.WPF", "HelloXamarin.WPF\HelloXamarin.WPF.csproj", "{F18BED8D-199A-4B2C-AAE4-C7E58B8E4A33}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		HelloXamarin\HelloXamarin\HelloXamarin.projitems*{32104fd6-5bef-41d9-a4f9-1b641904eaed}*SharedItemsImports = 4
@@ -23,6 +25,10 @@ Global
 		{32104FD6-5BEF-41D9-A4F9-1B641904EAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32104FD6-5BEF-41D9-A4F9-1B641904EAED}.Release|Any CPU.Build.0 = Release|Any CPU
 		{32104FD6-5BEF-41D9-A4F9-1B641904EAED}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F18BED8D-199A-4B2C-AAE4-C7E58B8E4A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18BED8D-199A-4B2C-AAE4-C7E58B8E4A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18BED8D-199A-4B2C-AAE4-C7E58B8E4A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18BED8D-199A-4B2C-AAE4-C7E58B8E4A33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
